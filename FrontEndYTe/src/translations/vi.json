@@ -1,0 +1,88 @@
+{
+  "homeheader": {
+    "speciality": "Chuyên khoa",
+    "searchdoctor": "Tìm bác sĩ theo chuyên khoa",
+    "health-facility": "Cơ sở y tế",
+    "select-room": "chọn bệnh viện phòng khám",
+    "doctor": "Bác sĩ",
+    "select-doctor": "Chọn bác sĩ giỏi",
+    "fee": "Gói khám",
+    "check-health": "Khám sức khỏe tổng quát",
+    "support": "Hỗ trợ",
+    "welcome": "Xin chào"
+  },
+  "banner": {
+    "title1": "NỀN TẢNG Y TẾ",
+    "title2": "CHĂM SÓC SỨC KHỎE TOÀN DIỆN",
+    "child1": "Khám chuyên khoa",
+    "child2": "Khám từ xa",
+    "child3": "Khám tổng quát",
+    "child4": "Xét nghiệm y học",
+    "child5": "Sức khỏe tinh thần",
+    "child6": "Khám nha khoa"
+  },
+  "menu": {
+    "admin": {
+      "manage-user": "Người dùng ",
+      "manage-doctor": "Quản lý bác sĩ",
+      "manage-admin": "Quản lý admin",
+      "crud": "CRUD user",
+      "crud-redux": "CRUD Redux",
+      "clinic": "Phòng khám",
+      "manage-clinic": "Quản lý phòng khám ",
+      "specialty": "Chuyên khoa ",
+      "manage-specialty": "Quản lý chuyên khoa",
+      "handbook": "Cẩm nang ",
+      "manage-handbook": "Quản lý cẩm nang "
+    },
+    "doctor": {
+      "manage-schedule": "Quản lý kế hoạch khám bệnh"
+      ,"manage-patient":"Quản lý lịch khám bệnh nhân "
+    }
+  },
+  "manage-user": {
+    "add": "Thêm mới người dùng",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "first-name": "Tên",
+    "last-name": "Họ",
+    "phone-number": "Số điện thoại",
+    "address": "Địa chỉ ",
+    "gender": "Giới tính",
+    "position": "Chức danh",
+    "role": "Vai trò",
+    "image": "Ảnh đại diện",
+    "save": "Lưu",
+    "edit": "Cập nhập"
+  },
+  "homepage": {
+    "outstanding-doctor": "Bác sĩ nổi bật tuần qua",
+    "more-info": "Xem thêm "
+  },
+  "manage-schedule": {
+    "title": "Quản lý kế hoạch khám bệnh của bác sĩ ",
+    "chosse-day": "Chọn ngày",
+    "chosse-doctor": "Chọn bác sĩ",
+    "save": "Xác nhận"
+  },
+  "Patient": {
+    "calendar": "Lịch khám"
+  },
+  "manage-doctor": {
+    "chosse-doctor": "Chọn bác sĩ",
+    "input-infomation": "Thông tin giới thiệu",
+    "chosse-price": "Chọn giá khám",
+    "chosse-payment": "Chọn phương thức thanh toán ",
+    "chosse-province": "Chọn tỉnh thành",
+    "name-clicin": "Tên phòng khám",
+    "clinic-address": "Địa chỉ phòng khám",
+    "note": "Ghi chú thêm"
+  },
+  "doctorextrainfor": {
+    "examination-price": "GIÁ KHÁM :",
+    "payment": "Người bệnh có thể thanh toán chi phí bằng hình thức",
+    "details": "Xem chi tiết ",
+    "hide": "Ẩn bảng giá ",
+    "examination-address": "Địa chỉ khám "
+  }
+}

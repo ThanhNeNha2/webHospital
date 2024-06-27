@@ -1,0 +1,49 @@
+.login-background {
+  height: 100vh;
+  background: linear-gradient(135deg, rgb(34, 193, 195) 0%, rgb(253, 187, 45) 100%);
+}
+.login-background .login-container {
+  width: 400px;
+  background-color: white;
+  border-radius: 10px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  height: 500px;
+}
+.login-background .login-container .login-content {
+  padding: 10px;
+  text-align: center;
+}
+.login-background .login-container .login-content .text-login {
+  text-align: center;
+  font-weight: 900;
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+.login-background .login-container .login-content .login-input {
+  margin: 7px 0;
+  position: relative;
+}
+.login-background .login-container .login-content .iconeye {
+  position: absolute;
+  top: 28px;
+  right: 23px;
+  cursor: pointer;
+}
+.login-background .login-container .login-content .btn-login {
+  background: linear-gradient(135deg, rgb(34, 193, 195) 0%, rgb(253, 187, 45) 100%);
+  width: 80%;
+  margin: 10px 0;
+  font-size: 20px;
+  padding: 5px 0;
+  border-radius: 3px;
+  outline: none;
+  border: none;
+}
+.login-background .login-container .login-content .icons-login {
+  font-size: 30px;
+}/*# sourceMappingURL=Login.css.map */

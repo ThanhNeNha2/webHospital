@@ -1,0 +1,30 @@
+.intro-doctor {
+  display: flex;
+
+  .content-left {
+    width: 20%;
+    background: center center no-repeat;
+    background-size: cover;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 10px 20px;
+  }
+  .content-right {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    .up {
+      font-size: 20px;
+      font-weight: 600;
+    }
+    .down {
+      padding-top: 10px;
+    }
+  }
+}
+.detail{
+  padding: 15px 0 0 19px;
+  font-size: 17px;
+}

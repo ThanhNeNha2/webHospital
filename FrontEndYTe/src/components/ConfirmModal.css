@@ -1,0 +1,43 @@
+.text-center {
+  text-align: center !important;
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-red {
+  color: #d01a1d !important;
+}
+
+@media (min-width: 766px) {
+  .confirm-modal.modal-dialog {
+    min-width: 650px;
+  }
+}
+.confirm-modal hr {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  margin: 10px 15px 5px 15px;
+}
+.confirm-modal .btn-container {
+  margin-top: 10px;
+}
+.confirm-modal .btn-container .btn {
+  width: 100px;
+}
+.confirm-modal .btn-container .btn:first-child {
+  margin-right: 10px;
+}
+.confirm-modal .custom-form-group {
+  margin: 5px 0;
+}
+.confirm-modal .custom-form-group .custom-form-control.readonly {
+  min-height: 28px;
+  height: auto;
+}/*# sourceMappingURL=ConfirmModal.css.map */

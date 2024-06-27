@@ -1,0 +1,19 @@
+.doctor-schedule-container {
+  display: flex;
+  .doctor-schedule-left {
+    .all-schedule {
+      width: 60%;
+      .writeSelect {
+        text-transform: capitalize;
+      }
+    }
+    .all-available-time {
+      .text-calender {
+        margin: 10px 0 0 0;
+      }
+      .time-content {
+        padding: 0 0 15px 0;
+      }
+    }
+  }
+}

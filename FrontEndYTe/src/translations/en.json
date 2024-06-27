@@ -1,0 +1,89 @@
+{
+  "homeheader": {
+    "speciality": "Medical speciality",
+    "searchdoctor": "Find doctors by department",
+    "health-facility": " Health facilities",
+    "select-room": "Choose hospital clinic",
+    "doctor": "Doctor",
+    "select-doctor": "Choose a good doctor",
+    "fee": "Checkup package",
+    "check-health": "General health check",
+    "support": "Support",
+    "welcome": "Welcome"
+  },
+  "banner": {
+    "title1": "MEDICAL BACKGROUND",
+    "title2": "COMPREHENSIVE HEALTH CARE",
+    "child1": " Specialized examination",
+    "child2": "Remote examination",
+    "child3": "General examination",
+    "child4": "Medical test",
+    "child5": "Mental health",
+    "child6": "Dental examination"
+  },
+  "menu": {
+    "admin": {
+      "manage-user": "Manage user",
+      "manage-doctor": "Manage Doctor",
+      "manage-admin": "Manage admin",
+      "crud": "CRUD user",
+      "crud-redux": "CRUD Redux",
+      "clinic": "Clinics",
+      "manage-clinic": "Manage clinic",
+      "specialty": "Specialty",
+      "manage-specialty": "Manage specialty",
+      "handbook": "Handbook",
+      "manage-handbook": "Manage handbook"
+    },
+    "doctor": {
+      "manage-schedule": "Manage Doctor is schedule"
+      ,"manage-patient":"Manage schedule patient"
+
+    }
+  },
+  "manage-user": {
+    "add": "Add new user",
+    "email": "Email",
+    "password": "Password",
+    "first-name": "First name",
+    "last-name": "Last Name",
+    "phone-number": "Phone number",
+    "address": "Address ",
+    "gender": "Sex",
+    "position": "Position",
+    "role": "Role",
+    "image": "Avata",
+    "save": "Save",
+    "edit": "Update"
+  },
+  "homepage": {
+    "outstanding-doctor": "Last week's featured doctor",
+    "more-info": "More Info"
+  },
+  "manage-schedule": {
+    "title": "Manage the doctor's medical plan",
+    "chosse-day": "Choose day",
+    "chosse-doctor": "Choose doctor",
+    "save": "Confirm"
+  },
+  "Patient": {
+    "calendar": "Calendar"
+  },
+  "manage-doctor": {
+    "chosse-doctor": "Choose a doctor",
+    "input-infomation": "Introductory information",
+    "chosse-price": "Choose the examination price",
+    "chosse-payment": "Select a payment method",
+    "chosse-province": "Select province",
+    "name-clicin": "Name clicin",
+    "clinic-address": "Clicin address",
+    "note": "Note "
+  },
+  "doctorextrainfor": {
+    "examination-price": "Examination price :",
+    "payment": "Patients can pay the cost by form",
+    "details": " See details",
+    "hide": "Hide price list",
+    "examination-address": "Examination address"
+  }
+}

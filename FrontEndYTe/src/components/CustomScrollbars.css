@@ -1,0 +1,76 @@
+.text-center {
+  text-align: center !important;
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-red {
+  color: #d01a1d !important;
+}
+
+.custom-scrollbar .thumb-horizontal {
+  background-color: rgba(0, 0, 0, 0.4);
+  box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.1), inset 0 -1px 0 rgba(0, 0, 0, 0.07);
+}
+.custom-scrollbar .thumb-horizontal:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+  box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.custom-scrollbar .thumb-horizontal:active {
+  background-color: rgba(0, 0, 0, 0.9);
+  box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+.custom-scrollbar .thumb-vertical {
+  background-color: rgba(0, 0, 0, 0.4);
+  box-shadow: inset 1px 1px 0 rgba(0, 0, 0, 0.1), inset 0 -1px 0 rgba(0, 0, 0, 0.07);
+}
+.custom-scrollbar .thumb-vertical:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+  box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+.custom-scrollbar .thumb-vertical:active {
+  background-color: rgba(0, 0, 0, 0.9);
+  box-shadow: inset 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+.custom-scrollbar:hover > .track-horizontal, .custom-scrollbar:hover > .track-vertical {
+  opacity: 1 !important;
+}
+.custom-scrollbar:hover > .track-horizontal > .thumb-horizontal, .custom-scrollbar:hover > .track-horizontal > .thumb-vertical, .custom-scrollbar:hover > .track-vertical > .thumb-horizontal, .custom-scrollbar:hover > .track-vertical > .thumb-vertical {
+  opacity: 1;
+}
+.custom-scrollbar .track-horizontal {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 5px !important;
+}
+.custom-scrollbar .track-horizontal:hover, .custom-scrollbar .track-horizontal:active {
+  height: 10px !important;
+}
+.custom-scrollbar .track-vertical {
+  right: 0;
+  bottom: 0;
+  top: 0;
+  width: 5px !important;
+}
+.custom-scrollbar .track-vertical:hover, .custom-scrollbar .track-vertical:active {
+  width: 10px !important;
+}
+.custom-scrollbar .thumb-horizontal {
+  cursor: pointer;
+  border-radius: 10px;
+  background-clip: padding-box;
+  min-width: 0px;
+}
+.custom-scrollbar .thumb-vertical {
+  cursor: pointer;
+  border-radius: 10px;
+  background-clip: padding-box;
+  min-height: 0px;
+}/*# sourceMappingURL=CustomScrollbars.css.map */
